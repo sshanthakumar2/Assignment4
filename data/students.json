@@ -3130,5 +3130,17 @@
     "TA": true,
     "status": "Full Time",
     "course": 5
+  },
+  {
+    "studentNum": 262,
+    "firstName": "jack",
+    "lastName": "simith",
+    "email": "jsimith2@myseneca.ca",
+    "addressStreet": "11 keele st",
+    "addressCity": "Toronto",
+    "addressProvince": "On",
+    "TA": true,
+    "status": "Full Time",
+    "course": 10
   }
 ]
