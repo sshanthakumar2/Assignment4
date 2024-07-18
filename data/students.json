@@ -3154,5 +3154,17 @@
     "TA": true,
     "status": "Part Time",
     "course": 6
+  },
+  {
+    "studentNum": 264,
+    "firstName": "vanson",
+    "lastName": "dant",
+    "email": "vdant6@myseneca.ca",
+    "addressStreet": "25 donmills",
+    "addressCity": "Toronto",
+    "addressProvince": "On",
+    "TA": true,
+    "status": "Full Time",
+    "course": 3
   }
 ]
