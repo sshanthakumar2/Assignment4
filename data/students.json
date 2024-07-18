@@ -3142,5 +3142,17 @@
     "TA": true,
     "status": "Full Time",
     "course": 10
+  },
+  {
+    "studentNum": 263,
+    "firstName": "richmon",
+    "lastName": "ranson",
+    "email": "rranson4@myseneca.ca",
+    "addressStreet": "12-49 donmills st, north york",
+    "addressCity": "Toronto",
+    "addressProvince": "On",
+    "TA": true,
+    "status": "Part Time",
+    "course": 6
   }
 ]
